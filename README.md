@@ -8,6 +8,6 @@ Android开发过程一些实用的开放库
 
 1、[优惠券](https://github.com/dongjunkun/CouponView)
 
-![](https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif1.gif)
-![](https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif2.gif)
-![](https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif3.gif)
+![Aaron Swartz](https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif1.gif =100x20)
+![Aaron Swartz](https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif2.gif =100x20)
+![Aaron Swartz](https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif3.gif =100x20)
